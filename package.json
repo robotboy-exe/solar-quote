@@ -1,0 +1,6 @@
+{
+  "name": "solarquote-ng",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
